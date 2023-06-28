@@ -14,7 +14,6 @@
 
 **The scores of the projects are not high. The codes are only for reference (maybe counterfactuals). Any advice is appreciated.**
 
-**Useful links**
 Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology:
 https://github.com/ShiqiYu/CPP
 
